@@ -1,3 +1,5 @@
+/* COLORS SECTION */
+
 section {
     border: 1px solid black; 
     margin-bottom: 20px;
@@ -25,4 +27,37 @@ section {
 
 .bright-grey {
     background-color: #EEEEEE;
+}
+
+
+/* FONTS SECTION */
+
+#bold {
+    font-weight: bold;
+}
+
+#italic {
+    font-style: italic;
+}
+
+.fonts {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+
+.sora {
+    font-family: 'Sora', sans-serif;
+}
+
+.manrope {
+    font-family: 'Manrope', sans-serif;
+}
+
+.jetbrains-mono {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.epilogue {
+    font-family: 'Epilogue', sans-serif;
 }
