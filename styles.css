@@ -1,6 +1,28 @@
-.colors-section,
-.fonts-section,
-.text-styles-section {
+section {
     border: 1px solid black; 
     margin-bottom: 20px;
+}
+
+.colors {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px; 
+    text-align: center;
+    margin: 5px;
+}
+
+.dark-charcoal {
+    background-color: #333333;
+}
+
+.taupe-grey {
+    background-color: #888888;
+}
+
+.x11-grey {
+    background-color: #BBBBBB;
+}
+
+.bright-grey {
+    background-color: #EEEEEE;
 }
